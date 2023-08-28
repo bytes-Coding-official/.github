@@ -1,5 +1,5 @@
 ### Hi we are bytes Coding<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Facebook Badge](https://img.shields.io/badge/-CarinaSchoppe-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSophieSchoppe/)](https://www.facebook.com/CarinaSophieSchoppe/)
+[![Facebook Badge](https://img.shields.io/badge/-bytesCoding-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSophieSchoppe/)](https://www.facebook.com/CarinaSophieSchoppe/)
 [![Gmail Badge](https://img.shields.io/badge/-bytesCoding-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:info@bytes-coding.de)](mailto:info@bytes-coding.de)
 [![Instagram Badge](https://img.shields.io/badge/-@bytesCoding-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bytes_coding/)](https://instagram.com/bytes_coding)
 [![Twitter Badge](https://img.shields.io/badge/-@bytesCoding-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bytesCoding2023)](https://twitter.com/bytesCoding2023)
