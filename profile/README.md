@@ -14,4 +14,3 @@ We also an open-source enthusiast and maintainer. We learned a lot from the open
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![bytes Codings's github stats](https://github-readme-stats.vercel.app/api?username=carinaschoppe&count_private=true&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/bytes-coding-official)
