@@ -12,7 +12,6 @@ We also an open-source enthusiast and maintainer. We learned a lot from the open
 - 💬 ask us about anything, we are happy to help;
 
 
-https://www.paypal.com/donate/?hosted_button_id=D6SLQ6NW4WK5Q
 <a href="https://www.paypal.com/donate/?hosted_button_id=D6SLQ6NW4WK5Q" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Donate" width="150" ></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carinaschoppe&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
