@@ -1,10 +1,10 @@
 # Bytes Coding Open Source
 
-At Bytes Coding, we are passionate about developing, contributing to, and supporting Open Source projects. As creators and supporters of innovative programming courses and development tools, we firmly believe in the Open Source model's power to foster community collaboration and learning.
+At Bytes Coding, we are passionate about developing, contributing to, and supporting Open Source projects. As creators and supporters of innovative programming courses and contributors, we firmly believe in the Open Source model's power to foster community collaboration and learning.
 
 ## Bytes Coding on GitHub
 
-Our GitHub organization is home to numerous Open Source projects we're actively working on and sharing with the wider community. Each project is tagged to categorize the type of contribution it represents, facilitating easier discovery and participation.
+Our GitHub organization is home to numerous Open Source projects we're actively working on and sharing with the wider community.
 
 ## Code of Conduct
 
