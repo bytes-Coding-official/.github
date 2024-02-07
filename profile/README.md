@@ -31,7 +31,7 @@ Cultural differences and online interactions can sometimes lead to misunderstand
 
 ### How to Report Issues
 
-If you encounter inappropriate behavior or conduct violations, and direct confrontation is not an option or unwanted, please contact us at codeofconduct@bytes-coding.com.
+If you encounter inappropriate behavior or conduct violations, and direct confrontation is not an option or unwanted, please contact us at info@bytes-coding.com.
 
 ### Consequences of Unacceptable Behavior
 
