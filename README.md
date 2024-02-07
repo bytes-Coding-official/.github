@@ -1,17 +1,45 @@
-### Hi we are bytes Coding<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Facebook Badge](https://img.shields.io/badge/-bytesCoding-005eff?style=flat&labelColor=005eff&logo=Facebook&logoColor=darkblue&link=https://www.facebook.com/CarinaSophieSchoppe/)](https://www.facebook.com/CarinaSophieSchoppe/)
-[![Gmail Badge](https://img.shields.io/badge/-bytesCoding-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:info@bytes-coding.de)](mailto:info@bytes-coding.de)
-[![Instagram Badge](https://img.shields.io/badge/-@bytesCoding-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bytes_coding/)](https://instagram.com/bytes_coding)
-[![Twitter Badge](https://img.shields.io/badge/-@bytesCoding-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bytesCoding2023)](https://twitter.com/bytesCoding2023)
-![](https://visitor-badge.glitch.me/badge?page_id=bytesCoding.bytesCoding)
-<br />
-Hi, we are [bytes Coding](https://github.com/bytes-Coding-official/), a passionate full stack developer and a freelancing as well as software engineering company from germany. Our passion for software lies with dreaming up ideas and making them come true with elegant interfaces. We take great care in the experience, architecture, and code quality of the things we build.
+# Bytes Coding Open Source
 
-We also an open-source enthusiast and maintainer. We learned a lot from the open-source community and we love how collaboration and knowledge sharing happened through open-source.
-- 💼 any freelance work? do reach, [email](mailto:info@bytes-coding.de) :)
-- 💬 ask us about anything, we are happy to help;
+At Bytes Coding, we are passionate about developing, contributing to, and supporting Open Source projects. As creators and supporters of innovative programming courses and development tools, we firmly believe in the Open Source model's power to foster community collaboration and learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bytes-Coding-official&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## Bytes Coding on GitHub
+
+Our GitHub organization is home to numerous Open Source projects we're actively working on and sharing with the wider community. Each project is tagged to categorize the type of contribution it represents, facilitating easier discovery and participation.
+
+## Code of Conduct
+
+This code of conduct outlines our expectations for all participants in our open source projects and community initiatives. We strive to create safe, welcoming, and positive experiences for everyone. Given that communities reflect the diverse societies they are part of, we are committed to taking positive actions to address inequality and abuses of power.
+
+### How to Behave
+
+- **Be Authentic and Active:** Your genuine participation contributes to the community's health and longevity.
+- **Show Consideration, Respect, and Empathy:** We all start somewhere. Respect everyone's journey in technology.
+- **Avoid Negative Behaviors:** Refrain from demeaning, discriminatory, or harassing behavior and speech.
+- **Embrace Disagreements Constructively:** Disagreements are part of growth, but argumentative behavior or trolling is not.
+
+### How Not to Behave
+
+- **No Threats or Violence:** Do not threaten or use violent language against others.
+- **Avoid Discriminatory Jokes and Language:** Do not engage in sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes or language.
+- **No Sexually Explicit or Violent Material:** Do not post or display inappropriate content.
+- **Respect Privacy:** Do not post or threaten to post personally identifying information of others.
+- **No Personal Insults:** Avoid insults related to gender, sexual orientation, race, religion, or disability.
+- **No Sexual Attention:** Refrain from sexualized comments, jokes, or advances.
+- **Do Not Advocate Negative Behavior:** Encouraging unacceptable behavior is not permitted.
+
+Cultural differences and online interactions can sometimes lead to misunderstandings, so empathy is crucial.
+
+### How to Report Issues
+
+If you encounter inappropriate behavior or conduct violations, and direct confrontation is not an option or unwanted, please contact us at codeofconduct@bytes-coding.com.
+
+### Consequences of Unacceptable Behavior
+
+Unacceptable behavior by any community member will not be tolerated. Expected compliance is immediate when asked to cease such behavior. Depending on the severity, Bytes Coding may take action, including temporary bans or permanent expulsion without warning.
+
+## License and Attribution
+
+This document is inspired by The Citizen Code of Conduct and is distributed under a Creative Commons Attribution-ShareAlike license.
 
 
 [![bytes Codings's github stats](https://github-readme-stats.vercel.app/api?username=bytes-coding-official&count_private=true&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/bytes-coding-official)
